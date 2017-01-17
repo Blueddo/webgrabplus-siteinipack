@@ -72,7 +72,7 @@
     <channel update="i" site="cosmote.gr" site_id="sbc" xmltv_id="SBC">SBC</channel>
     <channel update="i" site="cosmote.gr" site_id="star" xmltv_id="STAR">STAR</channel>
     <channel update="i" site="cosmote.gr" site_id="sirina-tv" xmltv_id="Sirina TV">Sirina TV</channel>
-	<channel update="i" site="cosmote.gr" site_id="smile-tv" xmltv_id="Smile TV">Smile TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="smile-tv" xmltv_id="Smile TV">Smile TV</channel>
     <channel update="i" site="cosmote.gr" site_id="star-kentrikes-elladas" xmltv_id="Star Κεντρικής Ελλάδας">Star Κεντρικής Ελλάδας</channel>
     <channel update="i" site="cosmote.gr" site_id="sundance-channel-hd" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
     <channel update="i" site="cosmote.gr" site_id="tlc" xmltv_id="TLC">TLC</channel>
