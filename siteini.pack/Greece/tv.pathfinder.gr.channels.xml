@@ -1,89 +1,150 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<site generator-info-name="WebGrab+Plus version 1.1.0 -- Jan van Straaten" site="tv.pathfinder.gr">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="tv.pathfinder.gr">
   <channels>
-    <channel update="" site="tv.pathfinder.gr" site_id="et1-dig" xmltv_id="et1-dig">ET1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="net-dig" xmltv_id="net-dig">NET</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="et3-dig" xmltv_id="et3-dig">ΕΤ3</channel>
-    <!-- State channels program (from them, the above from OTETV paytv is better structured) -->
-    <channel update="" site="tv.pathfinder.gr" site_id="et1" xmltv_id="et1">ET1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="net" xmltv_id="net">NET</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="et3" xmltv_id="et3">ΕΤ3</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="ert-hd-dig" xmltv_id="erthd">ΕΡΤ HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="mega" xmltv_id="mega">MEGA</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="ant1" xmltv_id="antenna">ANT1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="star" xmltv_id="star">STAR</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="alpha" xmltv_id="alpha">ALPHA</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="skai" xmltv_id="skai">ΣΚΑΪ</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novacinema1" xmltv_id="novac1">Nova Cinema 1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novacinema2" xmltv_id="novac2">Nova Cinema 2</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novacinema3" xmltv_id="novac3">Nova Cinema 3</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="mgm" xmltv_id="mgm">MGM CHANNEL</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="makedonia" xmltv_id="maktv">Μακεδονία TV</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="vouli" xmltv_id="vouli">Κανάλι της Βουλής</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="bouli-dig" xmltv_id="vouli">Κανάλι της Βουλής</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports1" xmltv_id="novas1">NovaSports 1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports2" xmltv_id="novas2">NovaSports 2</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports3" xmltv_id="novas3">NovaSports 3</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports4" xmltv_id="novas4">NovaSports 4</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasportshighlights" xmltv_id="novash">novasports_highlights?</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports5" xmltv_id="novas5">NovaSports 5</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports6" xmltv_id="novas6">NovaSports 6</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="novasports7" xmltv_id="novas7">NovaSports 6</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="motorstv" xmltv_id="motors">Motors TV</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="euronews-dig" xmltv_id="euronews">Euronews</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="eurosport1" xmltv_id="eurosport">EuroSport</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="eurosport2" xmltv_id="eurosport2">EuroSport 2</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="Eurosport-HD-dig" xmltv_id="eurosport">EuroSport HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="eurosport2-dig" xmltv_id="eurosport2">EuroSport 2</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="BBC-World-News-dig" xmltv_id="bbc">BBC World News</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="duetsche-welle-dig" xmltv_id="dw">Deutsche Welle</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="bloomberg-dig" xmltv_id="bloomberg">Bloomberg</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="discovery" xmltv_id="discovery">Discovery</channel>
-    <!-- (Discovery channels from OTETV) -->
-    <channel update="" site="tv.pathfinder.gr" site_id="discovery-dig" xmltv_id="discovery">Discovery</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="science-discovery-dig" xmltv_id="sciencedisc">Science (Discovery)</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="id-discovery-dig" xmltv_id="iddisc">ID (Discovery)</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="disc-show-dig" xmltv_id="discshowcase">Discovery HD Showcase</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="national" xmltv_id="natgeo">National Geographic Channel</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="animal" xmltv_id="animal">Animal Planet</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="travel" xmltv_id="travel">Travel Channel</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="history" xmltv_id="history">History</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="Mad-Hits-dig" xmltv_id="madhits">MAD Hits</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="mad" xmltv_id="mad">MAD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="mtv" xmltv_id="mtvgr">MTV Greece</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="mtv-dig" xmltv_id="mtv">MTV HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="VH1-dig" xmltv_id="vh1">VH1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="disney" xmltv_id="disney">Disney</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="disneyxd" xmltv_id="disneyxd">Disney XD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="Disney-Channel-dig" xmltv_id="disney">Disney</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="boomerang" xmltv_id="boomerang">Boomerang</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="foxlife" xmltv_id="foxlife">Foxlife</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="chassepeche" xmltv_id="chassepeche">Chasse &amp; Peche</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="kidsco-dig" xmltv_id="kidsco">KidsCo</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="fashion-tv-dig" xmltv_id="fashiontv">Fashion TV</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="france24-en-dig" xmltv_id="france24">France 24 En</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="al-jazeera-intl-dig" xmltv_id="aljazeera">Al Jazeera</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="nat-geo-wild-dig" xmltv_id="natgeowildhd">Nat Geo Wild HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="espn-classic-dig" xmltv_id="espn">ESPN Classic</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="espn-america-dig" xmltv_id="espnamerica">ESPN America HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="extreme-sports-channel-dig" xmltv_id="extremesports">Extreme Sports Channel</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="sport2-otetv-dig" xmltv_id="otes2">OTE Sport 2</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="style-tv-dig" xmltv_id="style">Style TV</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="russia-today-dig" xmltv_id="russiatoday">Russia Today</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="france24-fr-dig" xmltv_id="france24">France 24 Fr</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="world-fashion-dig" xmltv_id="worldfashion">World Fashion</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="c-music-tv-dig" xmltv_id="cmusic">C Music TV</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="baby-tv-dig" xmltv_id="babytv">Baby TV</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="sport1-otetv-dig" xmltv_id="otes1">OTE Sport 1</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="sport3-otetv-dig" xmltv_id="otes3">OTE Sport 3</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="FX-dig" xmltv_id="fx">FX</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="sundance-dig" xmltv_id="sundance">Sundance Channel HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="OTE-Sport-HD-dig" xmltv_id="oteshd">OTE Sport HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="Nickelodeon-HD-dig" xmltv_id="nickhd">Nickelodeon HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="TLC-dig" xmltv_id="tlc">TLC</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="cnbc-dig" xmltv_id="cnbc">CNBC</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="ote-cinema-dig" xmltv_id="otec">ΟΤΕ Σινεμά</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="iConcerts-HD-dig" xmltv_id="iconcerts">iConcerts HD</channel>
-    <channel update="" site="tv.pathfinder.gr" site_id="Luxe-TV-HD-dig" xmltv_id="luxe">Luxe TV HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="mega" xmltv_id="Mega">Mega</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ant1" xmltv_id="Ant1">Ant1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="star" xmltv_id="Star">Star</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="alpha" xmltv_id="Alpha">Alpha</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="makedonia" xmltv_id="Μακεδονία TV">Μακεδονία TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="mad" xmltv_id="MAD">MAD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="skai" xmltv_id="ΣΚΑΪ">ΣΚΑΪ</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="vouli" xmltv_id="Κανάλι της Βουλής">Κανάλι της Βουλής</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="etv" xmltv_id="E TV">E TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert1" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert2" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="erthd" xmltv_id="ΕΡΤ HD">ΕΡΤ HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert3" xmltv_id="ΕΡΤ3">ΕΡΤ3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="animal" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="national" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="travel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novacinema1" xmltv_id="NovaCinema1">NovaCinema1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novacinema2" xmltv_id="NovaCinema2">NovaCinema2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports7" xmltv_id="NovaSports7">NovaSports7</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports1" xmltv_id="NovaSports1">NovaSports1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports2" xmltv_id="NovaSports2">NovaSports2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports3" xmltv_id="NovaSports3">NovaSports3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports4" xmltv_id="NovaSports4">NovaSports4</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports5" xmltv_id="NovaSports5">NovaSports5</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novasports6" xmltv_id="NovaSports6">NovaSports6</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novacinema3" xmltv_id="NovaCinema3">NovaCinema3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="history" xmltv_id="The History Channel">The History Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="eurosport1" xmltv_id="EuroSport1">EuroSport1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="eurosport2" xmltv_id="EuroSport2">EuroSport2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="foxlife" xmltv_id="Foxlife">Foxlife</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="motorstv" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="disney" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novalife" xmltv_id="NovaLifε">NovaLifε</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="novacinema4" xmltv_id="NovaCinema4">NovaCinema4</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Eurosport-HD-dig" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="discovery-dig" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="id-discovery-dig" xmltv_id="ID (Discovery)">ID (Discovery)</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="kidsco-dig" xmltv_id="KidsCo">KidsCo</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="fashion-tv-dig" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="france24-en-dig" xmltv_id="France 24 En">France 24 En</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="al-jazeera-intl-dig" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="nat-geo-wild-dig" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="espn-classic-dig" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert1-dig" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="espn-america-dig" xmltv_id="ESPN America HD">ESPN America HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="extreme-sports-channel-dig" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="mega-dig" xmltv_id="MEGA">MEGA</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="skai-dig" xmltv_id="ΣΚΑΪ">ΣΚΑΪ</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="sport2-otetv-dig" xmltv_id="OTE Sport 2 HD">OTE Sport 2 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="style-tv-dig" xmltv_id="Style TV">Style TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="bloomberg-dig" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="russia-today-dig" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="france24-fr-dig" xmltv_id="France 24 Fr">France 24 Fr</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="duetsche-welle-dig" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="world-fashion-dig" xmltv_id="World Fashion">World Fashion</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="nat-geo-music-dig" xmltv_id="OTE Cinema 3">OTE Cinema 3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="c-music-tv-dig" xmltv_id="C Music TV">C Music TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="baby-tv-dig" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="foxlife-dig" xmltv_id="FOXlife">FOXlife</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="euronews-dig" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="eurosport2-dig" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="sport1-otetv-dig" xmltv_id="OTE Sport 1 HD">OTE Sport 1 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="sport3-otetv-dig" xmltv_id="OTE Sport 3 HD">OTE Sport 3 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="FX-dig" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Disney-Channel-dig" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Kontra-Channel-dig" xmltv_id="Kontra Channel">Kontra Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="sundance-dig" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Nickelodeon-HD-dig" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="VH1-dig" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Mad-Hits-dig" xmltv_id="Mad Hits">Mad Hits</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="TLC-dig" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="BBC-World-News-dig" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="bouli-dig" xmltv_id="ΒΟΥΛΗ">ΒΟΥΛΗ</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="star-dig" xmltv_id="STAR">STAR</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="cnbc-dig" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="disc-show-dig" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ote-cinema-dig" xmltv_id="OTE Cinema 3">OTE Cinema 3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="iConcerts-HD-dig" xmltv_id="iConcerts HD">iConcerts HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Luxe-TV-HD-dig" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="village-cinema-hd-dig" xmltv_id="Village Cinema HD">Village Cinema HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Cinema-1-HD-dig" xmltv_id="OTE Cinema 1 HD">OTE Cinema 1 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Cinema-2-dig" xmltv_id="OTE Cinema 2">OTE Cinema 2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ALPHA-dig" xmltv_id="ALPHA">ALPHA</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="4-dig" xmltv_id="4Ε">4Ε</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Extra-dig" xmltv_id="Extra">Extra</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="SBC-dig" xmltv_id="SBC">SBC</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="TV100-dig" xmltv_id="TV100">TV100</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="crete-TV-dig" xmltv_id="Κρήτη TV">Κρήτη TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Star---dig" xmltv_id="Star Κεντρικής Ελλάδας">Star Κεντρικής Ελλάδας</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="MAD-dig" xmltv_id="MAD">MAD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="hpeiros-TV1-dig" xmltv_id="Ήπειρος TV1">Ήπειρος TV1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="diktyo-TV-dig" xmltv_id="ΔΙΚΤΥΟ TV">ΔΙΚΤΥΟ TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="delta-TV-dig" xmltv_id="Δέλτα TV">Δέλτα TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ANT1-dig" xmltv_id="ANT1">ANT1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Travel-Channel-HD-dig" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="mak-TV-dig" xmltv_id="Μακεδονία TV">Μακεδονία TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Blue-Sky-dig" xmltv_id="Blue Sky">Blue Sky</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="art-dig" xmltv_id="ΑΡΤ">ΑΡΤ</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Zoom-TV-dig" xmltv_id="Zoom TV">Zoom TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Body-in-Balance-dig" xmltv_id="Body in Balance">Body in Balance</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Motorvision-Channel-HD-dig" xmltv_id="Motorvision Channel HD">Motorvision Channel HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Disney-XD-dig" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Disney-Junior-dig" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Channel-9-dig" xmltv_id="Channel 9">Channel 9</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="aigaio-TV-dig" xmltv_id="Αιγαίο TV">Αιγαίο TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Best-TV-dig" xmltv_id="Best TV">Best TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Corfu-Channel-dig" xmltv_id="Corfu Channel">Corfu Channel</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert-hd-dig" xmltv_id="ΕΡΤ HD">ΕΡΤ HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="E-HD-dig" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Tvkosmos-dig" xmltv_id="Tvkosmos">Tvkosmos</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="National-Geographic-HD-dig" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="National-Geographic-dig" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert2-dig" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Animal-Planet-HD-dig" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="MEZZO-dig" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="IDX-HD-dig" xmltv_id="IDX HD">IDX HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Sport-6-HD-dig" xmltv_id="OTE Sport 6 HD">OTE Sport 6 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Sport-Highlights-HD-dig" xmltv_id="OTE Sport Highlights HD">OTE Sport Highlights HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Epsilon-TV-dig" xmltv_id="Epsilon TV">Epsilon TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Cinema-4-HD-dig" xmltv_id="OTE Cinema 4 HD">OTE Cinema 4 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Sport-7-HD-dig" xmltv_id="OTE Sport 7 HD">OTE Sport 7 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Sport-8-HD-dig" xmltv_id="OTE Sport 8 HD">OTE Sport 8 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ert3-dig" xmltv_id="ΕΡΤ3">ΕΡΤ3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-History-dig" xmltv_id="OTE History">OTE History</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="MTV-Europe-dig" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="EDGEsport-HD-dig" xmltv_id="EDGEsport HD">EDGEsport HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Viasat-History-dig" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="MTV-Live-HD-dig" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Discovery-Science-HD-dig" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Sport-4-HD-dig" xmltv_id="OTE Sport 4 HD">OTE Sport 4 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Sport-5-HD-dig" xmltv_id="OTE Sport 5 HD">OTE Sport 5 HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Hustler-TV-HD-dig" xmltv_id="Hustler TV HD">Hustler TV HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Private-TV-dig" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="HD-CinemaOnDemand-dig" xmltv_id="HD CinemaOnDemand">HD CinemaOnDemand</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="CinemaOnDemand-2-dig" xmltv_id="CinemaOnDemand 2">CinemaOnDemand 2</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="CinemaOnDemand-1-dig" xmltv_id="CinemaOnDemand 1">CinemaOnDemand 1</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="CinemaOnDemand-3-dig" xmltv_id="CinemaOnDemand 3">CinemaOnDemand 3</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="Action-24-dig" xmltv_id="Action 24">Action 24</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="TRT-dig" xmltv_id="TRT">TRT</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="OTE-Cinema-Star-Trek-HD-dig" xmltv_id="OTE Cinema Star Trek HD">OTE Cinema Star Trek HD</channel>
+    <channel update="i" site="tv.pathfinder.gr" site_id="ALERT-dig" xmltv_id="ALERT">ALERT</channel>
   </channels>
 </site>
