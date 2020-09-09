@@ -16,7 +16,7 @@
     <channel update="i" site="cosmote.gr" site_id="body-in-balance" xmltv_id="Body in Balance">Body in Balance</channel>
     <channel update="i" site="cosmote.gr" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="cosmote.gr" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
-	<channel update="i" site="cosmote.gr" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="cosmote.gr" site_id="cnn" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="cosmote.gr" site_id="ote-cinema-1" xmltv_id="COSMOTE CINEMA 1HD">COSMOTE CINEMA 1HD</channel>
     <channel update="i" site="cosmote.gr" site_id="ote-cinema-2-hd" xmltv_id="COSMOTE CINEMA 2 HD">COSMOTE CINEMA 2 HD</channel>
     <channel update="i" site="cosmote.gr" site_id="ote-cinema-3" xmltv_id="COSMOTE CINEMA 3">COSMOTE CINEMA 3</channel>
